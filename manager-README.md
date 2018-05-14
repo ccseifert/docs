@@ -2,7 +2,7 @@
 (pronounced SIGH-fert)
 	
 ## What is this?
-The point of this README is to introduce myself and give you an idea of how I think, how I work and answer some questions you might have about me. This is a living document so it may (i.e. will) change over time as necessary.
+The point of this README is to introduce myself and give you an idea of how I think, how I work and answer some questions you might have about me. This is a living document so it ~~may~~ will change over time as necessary.
 
 ## What is this not?
 This is not going to lay out my expectations of you or how I think the organization or any particular project should be run.
@@ -34,6 +34,8 @@ happens frustratingly more often than one would think. Might be time for a
 new phone.
 
 There are very few things that I will do at Rangle that are more important than talking with you if you need to talk to me. Slack me, email me, drop by my desk (L26), grab time in my calendar. If you don’t find time in my calendar, message me and I’ll make time.
+
+Sometimes I like to get some work done on the weekends. Assuming it's not marked as urgent, if I message you on the weekend, **I don't expect you to respond**. I don't expect you to work on weekends unless something has been planned ahead of time. I want you to enjoy your life outside of the office so that you're happy, healthy and focused when you are at Rangle.
 
 ## Feedback
 The importance of feedback to me cannot be understated. I need feedback. You need feedback. We need to make sure that we are regularly communicating feedback candidly because we can’t make good choices if we don’t understand the actual context of the choice.
