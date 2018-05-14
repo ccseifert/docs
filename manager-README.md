@@ -23,12 +23,12 @@ Whew. More than enough about me. Let’s talk about us.
 ## Communication
 My style is one of transparency and candor. You can ask me anything you want and I will answer to the best of my ability. Sometimes the company will require that I can’t speak about something but otherwise you will get my honest opinion about whatever you ask. 
 
-I’m always available on Slack at anytime. The only reason you won’t get a response back from me within a few hours (if not minutes) is if I:
+I try to always be available on Slack at anytime. The only reasons you won’t get a response back from me within a few hours (if not minutes) are things like if I:
 
   1. Am sleeping.
   2. Am in a very long meeting (or series of meetings) that requires my full attention.
   3. Am stuck in the subway.
-  4. I’m on vacation and my wife has hidden my phone for using Slack too much.
+  4. Am on vacation and my wife has hidden my phone for using Slack too much.
   5. Don’t get a notification from Slack on my phone for hours. This actually 
 happens frustratingly more often than one would think. Might be time for a 
 new phone.
@@ -40,12 +40,12 @@ Sometimes I like to get some work done on the weekends. Assuming it's not marked
 ## Feedback
 The importance of feedback to me cannot be understated. I need feedback. You need feedback. We need to make sure that we are regularly communicating feedback candidly because we can’t make good choices if we don’t understand the actual context of the choice.
 
-My primary goal as your manager is for you to be happy and fulfilled. You should never be afraid to provide feedback to me or come to me with any concerns. Your success is my success and it’s in both our best interests to tackle any problems that might be happening for you so that you can move forward.
+My primary goal as your manager is for you to be happy, fulfilled and doing good work. You should never be afraid to provide feedback to me or come to me with any concerns. Your success is my success and it’s in both our best interests to tackle any problems that might be happening for you so that you can move forward.
 
 ## One-on-ones (1-1s)
 I’m a big believer in the importance of 1-1s. I will always make time for these meetings no matter how crazy my schedule might look.  The exception to that is if one of us is on vacation and we can’t schedule around that.
 
-These are your meetings. This is time for you to talk about whatever you want with me and have my undivided attention. That means these meetings will be more productive if you bring topics, concerns or just thoughts. My preference is for these not to be status updates (what you’re currently working on) and more about topics of substance.
+**These are your meetings**. This is time for you to talk about whatever you want with me and have my undivided attention. That means these meetings will be more productive if you bring topics, concerns or just thoughts. My preference is for these not to be status updates (what you’re currently working on) and more about topics of substance.
 
 I will create a private Slack channel for you to dump topics into so that we have a central place to refer to when we sit down together. If there is something I think is important that we should talk about, I will add it there as well.
 
