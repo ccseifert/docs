@@ -38,7 +38,7 @@ There are very few things that I will do at Rangle that are more important than 
 Sometimes I like to get some work done on the weekends. Assuming it's not marked as urgent, if I message you on the weekend, **I don't expect you to respond**. I don't expect you to work on weekends unless something has been planned ahead of time. I want you to enjoy your life outside of the office so that you're happy, healthy and focused when you are at Rangle.
 
 ## Feedback
-The importance of feedback to me cannot be understated. I need feedback. You need feedback. We need to make sure that we are regularly communicating feedback candidly because we can’t make good choices if we don’t understand the actual context of the choice.
+The importance of feedback to me cannot be overstated. I need feedback. You need feedback. We need to make sure that we are regularly communicating feedback candidly because we can’t make good choices if we don’t understand the actual context of the choice.
 
 My primary goal as your manager is for you to be happy, fulfilled and doing good work. You should never be afraid to provide feedback to me or come to me with any concerns. Your success is my success and it’s in both our best interests to tackle any problems that might be happening for you so that you can move forward.
 
