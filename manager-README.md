@@ -21,7 +21,7 @@ There is plenty for me to learn from you and I will bring plenty for you to lear
 Whew. More than enough about me. Let’s talk about us.
 
 ## Communication
-My style is one of transparency and candor. You can ask me anything you want and I will answer to the best of my ability. Sometimes the company will require that I can’t speak about something but otherwise you will get my honest opinion about whatever you ask. 
+My style is one of transparency and candor. You can ask me anything you want and I will answer to the best of my ability. Sometimes I won't be able to speak about something due to confidentiality or other similar concerns but otherwise you will get my honest opinion about whatever you ask. 
 
 I am usually available on Slack and I try to respond quickly whenever possible. The only reasons you won’t get a response back from me within a few hours (if not minutes) are things like if I:
 
