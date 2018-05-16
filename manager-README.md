@@ -16,14 +16,14 @@ My technical background is primarily in back end development. I’ve been in web
 
 This means I have a lot to learn in JS and front end dev, which is one of the things that attracted me to Rangle. I love to learn new (to me) technologies and this is a challenge I’m enjoying. That said, as a result of my relative newness to JS, **I will inevitably say some dumb things or ask some dumb questions**. Try not to laugh at me too much, I’ll get there! 
 
-I have no doubt that there is plenty for me to learn from you and I will bring plenty for you to learn from. It’s going to be great!
+There is plenty for me to learn from you and I will bring plenty for you to learn from. It’s going to be great!
 
 Whew. More than enough about me. Let’s talk about us.
 
 ## Communication
 My style is one of transparency and candor. You can ask me anything you want and I will answer to the best of my ability. Sometimes the company will require that I can’t speak about something but otherwise you will get my honest opinion about whatever you ask. 
 
-I try to always be available on Slack at anytime. The only reasons you won’t get a response back from me within a few hours (if not minutes) are things like if I:
+I am usually available on Slack and I try to respond quickly whenever possible. The only reasons you won’t get a response back from me within a few hours (if not minutes) are things like if I:
 
   1. Am sleeping.
   2. Am in a very long meeting (or series of meetings) that requires my full attention.
