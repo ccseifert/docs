@@ -7,7 +7,7 @@ The point of this README is to introduce myself and give you an idea of how I th
 ## What is this not?
 This is not going to lay out my expectations of you or how I think the organization or any particular project should be run.
 
-**I just got here, I don’t know much yet.**
+**We've likely just met. We need to get to know one another.**
 
 ## Who am I?
 I live in the Junction with my wife (Kim), son (Darius) and our dog (Hennessey). I was born and grew up in the US in Kansas City, Missouri (**not Kansas**)  and moved to Toronto way back in 2005. I’m a sports fan, comic book geek, board game player, woodworker and drink way too much Coke Zero.
@@ -22,6 +22,8 @@ Whew. More than enough about me. Let’s talk about us.
 
 ## Communication
 My style is one of transparency and candor. You can ask me anything you want and I will answer to the best of my ability. Sometimes I won't be able to speak about something due to confidentiality or other similar concerns but otherwise you will get my honest opinion about whatever you ask. 
+
+I have a tendency to be very direct. Some people like that but for others it can come across as abrupt. It's something I'm working on.
 
 I am usually available on Slack and I try to respond quickly whenever possible. The only reasons you won’t get a response back from me within a few hours (if not minutes) are things like if I:
 
