@@ -35,7 +35,7 @@ I am usually available on Slack and I try to respond quickly whenever possible. 
 happens frustratingly more often than one would think. Might be time for a 
 new phone.
 
-There are very few things that I will do at Rangle that are more important than talking with you if you need to talk to me. Slack me, email me, drop by my desk (R19), grab time in my calendar. If you don’t find time in my calendar, message me and I’ll make time.
+There are very few things that I will do at Rangle that are more important than talking with you if you need to talk to me. Slack me, email me, drop by my desk, grab time in my calendar. If you don’t find time in my calendar, message me and I’ll make time.
 
 Sometimes I like to get some work done on the weekends. Assuming it's not marked as urgent, if I message you on the weekend, **I don't expect you to respond**. I don't expect you to work on weekends unless something has been planned ahead of time. I want you to enjoy your life outside of the office so that you're happy, healthy and focused when you are at Rangle.
 
