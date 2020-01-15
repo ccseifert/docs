@@ -12,9 +12,9 @@ This is not going to lay out my expectations of you or how I think the organizat
 ## Who am I?
 I live in the Junction with my wife (Kim), son (Darius) and our dog (Hennessey). I was born and grew up in the US in Kansas City, Missouri (**not Kansas**)  and moved to Toronto way back in 2005. I’m a sports fan, comic book geek, board game player, photographer, video gamer, woodworker and drink way too much Coke Zero.
 
-My technical background is primarily in back end development. I’ve been in web dev since 1996 and most of those years have been working in the LAMP stack (PHP). I've primarily worked for agencies of various sizes throughout my career. Two jobs ago I worked for an agency called Ariad which did very similar work to what we do at Klick (websites, banners, emails, etc), mostly for financial and healthcare organizations.
+My technical background is primarily in back end development. I’ve been in web dev since 1996 and most of those years have been working in the LAMP stack (PHP). I've primarily worked for agencies of various sizes throughout my career. Two jobs ago I worked for an agency called Ariad which did very similar work to what we do at Klick (websites, banners, emails, etc), mostly for financial and healthcare organizations. It will be interesting for me to discover the similarities and differences between the two companies.
 
-After Ariad I worked at Rangle.io, a dev shop turned full service agency whose primary focus was almost entirely on modern javascript frameworks (Angular, React, Vue, etc). We also spread out to working on design systems, DevOps, Analytics and Machine Learning. The client base was pretty diverse, Rangle doesn't have a hyperfocus on one vertical like Klick does with healthcare.
+After Ariad I worked at Rangle.io, a dev shop turned full service agency whose primary focus was almost entirely on modern javascript frameworks (Angular, React, Vue, etc). We also spread out to working on design systems, devops, analytics and machine learning. The client base was pretty diverse, Rangle doesn't have a hyperfocus on one vertical like Klick does with healthcare.
 
 I'm very much looking forward to understanding how things are done at Klick, what we're great at, what we could do better and so on. There is plenty for me to learn from you and I will bring plenty for you to learn from. It’s going to be great!
 
@@ -23,7 +23,7 @@ Whew. More than enough about me. Let’s talk about us.
 ## Communication
 My style is one of transparency and candor. You can ask me anything you want and I will answer to the best of my ability. Sometimes I won't be able to speak about something due to confidentiality or other similar concerns but otherwise you will get my honest opinion about whatever you ask. 
 
-I have a tendency to be very direct. Some people like that but for others it can come across as abrupt. It's something I'm working on. I've been told my default demeanor is that I tend to look severe (when people are being polite) or unapproachable (when they are being less polite) but that's just my face, I promise! I'm actually generally quite laid back and happy to talk about anything. If want to chat, please do, I would love that :)
+I have a tendency to be very direct. Some people like that but for others it can come across as abrupt. It's something I'm working on. I've been told my default demeanor is that I tend to look severe or unapproachable but that's just my face, I promise! I'm actually generally quite laid back and happy to talk about anything. If you want to chat, please do, I would love that :)
 
 I am usually available on Slack and I try to respond quickly whenever possible. The only reasons you won’t get a response back from me within a few hours (if not minutes) are things like if I:
 
@@ -31,7 +31,7 @@ I am usually available on Slack and I try to respond quickly whenever possible. 
   2. Am in a very long meeting (or series of meetings) that requires my full attention.
   3. Am stuck in the subway.
   4. Am on vacation and my wife has hidden my phone for using Slack too much.
-  5. Don’t get a notification from Slack on my phone for hours. This used to happen more often but hasn't been as much of a problem after upgraing my phone.
+  5. Don’t get a notification from Slack on my phone for hours. This used to happen more often but hasn't been as much of a problem after upgrading my phone.
 
 There are very few things that I will do at Klick that are more important than talking with you if you need to talk to me. Slack me, email me, drop by my desk, grab time in my calendar. If you don’t find time in my calendar, message me and I’ll make time.
 
