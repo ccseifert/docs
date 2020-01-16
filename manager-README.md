@@ -49,7 +49,7 @@ I’m a big believer in the importance of 1:1s. I will always make time for thes
 
 For the first few weeks of us getting to know one another, we’re going to meet weekly if you report directly to me. If you report indirectly to me, we'll likely start out meeting biweekly. The first time we meet will be for an hour and then we’ll switch to half hour meetings in the weeks following. If, after some time, we mutually agree that we should do these less often, we can alter that schedule.
 
-All of that said, if there is something that is urgent that we need to talk about, don’t wait for the next 1-1. **Let me know ASAP.**
+All of that said, if there is something that is urgent that we need to talk about, don’t wait for the next 1:1. **Let me know ASAP.**
 
 ## Welp
 That's about it. I hope this sheds at least a little light on me and how I like to work. As I hope I've made clear above, if you have any questions, please don't hesitate and message me! I'm excited to get to know you and work with you :)
